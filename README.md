@@ -50,6 +50,10 @@
 
 ---
 
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jscooksey)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
 ### Recent Github Activity
   
 <!--START_SECTION:activity-->
