@@ -44,7 +44,8 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Hacktoberfest - What a great idea!](https://dev.to/jscooksey/hacktoberfest-what-a-great-idea-7cg)
+- [Gatsby Beginings](https://justincooksey.com/blog/gatsby-beginings/)
+- [Hacktoberfest - What a great idea!](https://justincooksey.com/blog/hacktoberfest-2019/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://justincooksey.com/blog)
