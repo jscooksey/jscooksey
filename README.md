@@ -7,7 +7,8 @@
 
 - 🔭 I’m currently working on:
   - Virtual Machine Hosting Monitoring and Reporting web applictaion
-  - Scripts to manage and monitr OpSys for the [DattoRMM MSP](https://www.datto.com/au/products/rmm/) monitoring system
+  - Scripts to manage and monitor devices for the [DattoRMM MSP](https://www.datto.com/au/products/rmm/) monitoring system
+  - Enjoying life
 - 🌱 I’m currently learning everything 🤣
 - 🥅 2021 Goals: Woah, its almost over already!  Enjoy life.
 - ⚡  Additionally I love to create images [photography]
