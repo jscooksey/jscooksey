@@ -6,7 +6,8 @@
 ## I'm a Father, Developer, and System Hosting Engineer!
 
 - 🔭 I’m currently working on:
-  - Virtual Machine Hosting MOnitoring and Reporting web applictaion
+  - Virtual Machine Hosting Monitoring and Reporting web applictaion
+  - Scripts to manage and monitr OpSys for the [DattoRMM MSP](https://www.datto.com/au/products/rmm/) monitoring system
 - 🌱 I’m currently learning everything 🤣
 - 🥅 2021 Goals: Woah, its almost over already!  Enjoy life.
 - ⚡  Additionally I love to create images [photography]
