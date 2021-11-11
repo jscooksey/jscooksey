@@ -5,9 +5,10 @@
 
 ## I'm a Father, Developer, and System Hosting Engineer!
 
-- 🔭 I’m currently working on a Hosting Server Management Web Application!
+- 🔭 I’m currently working on:
+  - Virtual Machine Hosting MOnitoring and Reporting web applictaion
 - 🌱 I’m currently learning everything 🤣
-- 🥅 2020 Goals: Learn more, contribute more, modify this page from [codeSTAKr](https://www.codestackr.com/)
+- 🥅 2021 Goals: Woah, its almost over already!  Enjoy life.
 - ⚡  Additionally I love to create images [photography]
 
 ### Connect with me:
