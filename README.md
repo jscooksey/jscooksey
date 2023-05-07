@@ -6,7 +6,7 @@
 
 With over 28 years of experience in the MSP industry, I have worked with a team to design, build, and maintain a VMware system that holds over 400 servers. As a DevOps engineer, I develop code to help manage and maintain our systems, leveraging tools such as [Netbox](https://github.com/netbox-community/netbox), [Ansible](https://github.com/ansible/ansible), and [LogicMonitor](https://github.com/logicmonitor). My coding interests lie in the areas of data analytics and collection, as well as home automation and IoT, where I have a particular focus on using [Home Assistant](https://github.com/home-assistant) as a platform.
 
-####Currently working on
+#### Currently working on
 
 - **Virtual Machine Hosting (VMH)** reporting web portal. Keeping daily records of virtual machines in hypervisor clusters allowing for reporting and auditing.
 - Scripts to extend Remote Monitoring and Management (RMM) and Infrastructure Monitoring:
@@ -34,11 +34,21 @@ With over 28 years of experience in the MSP industry, I have worked with a team 
 
 ### Connect with me:
 
-[<img align="left" alt="justincooksey.com" width="48px" style="padding-right:10px;" src="https://img.icons8.com/color/48/null/domain--v1.png" />][website]
-[<img align="left" alt="jscooksey | Twitter" width="48px" style="padding-right:10px;" src="https://img.icons8.com/windows/32/null/dev.png"/>][dev]
-[<img align="left" alt="jscooksey | Twitter" width="48px" style="padding-right:10px;" src="https://img.icons8.com/color/48/null/twitter--v1.png" />][twitter]
-[<img align="left" alt="jscooksey| LinkedIn" width="48px" style="padding-right:10px;" src="https://img.icons8.com/fluency/48/null/linkedin.png" />][linkedin]
-<a rel="me" href="https://fosstodon.org/@jscooksey"><img alt="Mastodon" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/null/external-mastodon-is-an-online-self-hosted-social-media-and-social-networking-service-logo-color-tal-revivo.png"/></a>
+<a href="https://justincooksey.com">
+  <img align="left" alt="justincooksey.com" width="48px" style="padding-right:10px;" src="https://img.icons8.com/color/48/null/domain--v1.png" />
+</a>
+<a href="https://dev.to/jscooksey">
+  <img align="left" alt="jscooksey | Dev" width="48px" style="padding-right:10px;" src="https://img.icons8.com/windows/32/null/dev.png"/>
+</a>
+<a href="https://justincooksey.com">
+  <img align="left" alt="jscooksey | Twitter" width="48px" style="padding-right:10px;" src="https://img.icons8.com/color/48/null/twitter--v1.png" />
+</a>
+<a href="https://linkedin.com/in/jscooksey">
+  <img align="left" alt="jscooksey| LinkedIn" width="48px" style="padding-right:10px;" src="https://img.icons8.com/fluency/48/null/linkedin.png" />
+</a>
+<a rel="me" href="https://fosstodon.org/@jscooksey">
+  <img alt="Mastodon" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/null/external-mastodon-is-an-online-self-hosted-social-media-and-social-networking-service-logo-color-tal-revivo.png"/>
+</a>
 
 ---
 
@@ -97,14 +107,7 @@ With over 28 years of experience in the MSP industry, I have worked with a team 
 
 <!-- BLOG-POST-LIST:END -->
 
-➡️ [more blog posts...](https://justincooksey.com/blog)
+➡️ [more blog posts...](https://justincooksey.com)
 
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
-
-[website]: https://justincooksey.com
-[twitter]: https://twitter.com/jscooksey
-[linkedin]: https://linkedin.com/in/jscooksey
-[mastodon]: https://fosstodon.org/@jscooksey
-[dev]: https://dev.to/jscooksey
-[photography]: https://justincooksey.photography
