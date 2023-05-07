@@ -1,18 +1,34 @@
-### Justin Cooksey
+# Justin Cooksey
 
 [![Website](https://img.shields.io/website?label=justincooksey.com&style=for-the-badge&url=https%3A%2F%2Fjustincooksey.com)](https://justincooksey.com)
 
-## I'm a Father, Developer, and System Hosting Engineer!
+## I'm a Father, Developer, and DevOps Engineer!
 
-- I’m currently working on:
-  - Virtual Machine Hosting (VMH) reporting web portal
-  - Scripts to expand Remote Monitoring and Management (RMM):
-    - [N-Central RMM](https://www.n-able.com/products/n-central-rmm)
-    - [Datto RMM](https://www.datto.com/au/products/rmm/)
-  - Enjoying life
-- I’m currently learning ... everything 🤣
-- 2023 Goals: Enjoy life.
-- I also love to create images - [photography](https://justincooksey.photography/)
+With over 28 years of experience in the MSP industry, I have worked with a team to design, build, and maintain a VMware system that holds over 400 servers. As a DevOps engineer, I develop code to help manage and maintain our systems, leveraging tools such as [Netbox](https://github.com/netbox-community/netbox), [Ansible](https://github.com/ansible/ansible), and [LogicMonitor](https://github.com/logicmonitor). My coding interests lie in the areas of data analytics and collection, as well as home automation and IoT, where I have a particular focus on using [Home Assistant](https://github.com/home-assistant) as a platform.
+
+####Currently working on
+
+- **Virtual Machine Hosting (VMH)** reporting web portal. Keeping daily records of virtual machines in hypervisor clusters allowing for reporting and auditing.
+- Scripts to extend Remote Monitoring and Management (RMM) and Infrastructure Monitoring:
+  - [LogicMonitor](https://www.logicmonitor.com/)
+  - [N-Central RMM](https://www.n-able.com/products/n-central-rmm)
+  - [Datto RMM](https://www.datto.com/au/products/rmm/)
+- Living and enjoying a healthy life
+
+#### Continued Learning ... everything 🤣
+
+- Data Analytics
+- Python
+
+#### Goals
+
+- Live a healthy life
+- ✅ **Completed** [Cisco Certified DevNet Associate](https://www.credly.com/badges/3f2bc007-5f27-4682-9391-45716713bed0/public_url)
+- Getting Cisco CCNA certifications
+
+#### What else
+
+- I love to create images, photography, so please [check out my image portfolio](https://www.logicmonitor.com/).
 
 ---
 
@@ -30,7 +46,7 @@
 
 ---
 
-### Languages and Tools:
+### Languages and Tools I use
 
 <img align="left" alt="Python" width="48px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
 <img align="left" alt="Pandas" width="48px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" />
@@ -76,8 +92,8 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-- [Gatsby Beginings](https://justincooksey.com/blog/gatsby-beginings/)
-- [Hacktoberfest - What a great idea!](https://justincooksey.com/blog/hacktoberfest-2019/)
+- [Advent of Code 2022](https://justincooksey.com/blog/2022-advent-of-code/)
+- [Windows Server DHCP conversion to Cisco CLI](https://justincooksey.com/blog/2021-03-04-windows-server-dhcp-conversion-to-cisco-cli/)
 
 <!-- BLOG-POST-LIST:END -->
 
