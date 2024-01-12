@@ -54,7 +54,7 @@ With over 28 years of experience in the MSP industry, I have worked with a team 
 ---
 
 <div align="center">
- <img src="https://raw.githubusercontent.com/[YourGitHub]/[YourGitHub]/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Grid Snake Animation"/>
+ <img src="https://raw.githubusercontent.com/jscooksey/jscooksey/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Grid Snake Animation"/>
 </div>
 
 ---
