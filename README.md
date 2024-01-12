@@ -100,6 +100,14 @@ With over 28 years of experience in the MSP industry, I have worked with a team 
 
 ---
 
+<div align="center">
+    <!-- Replace with your framework skills -->
+    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
+    <!-- Add more badges similarly -->
+</div>
+
+---
+
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
