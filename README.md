@@ -53,7 +53,9 @@ With over 28 years of experience in the MSP industry, I have worked with a team 
 
 ---
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jscooksey&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+<div align="center">
+ <img src="https://raw.githubusercontent.com/[YourGitHub]/[YourGitHub]/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Grid Snake Animation"/>
+</div>
 
 ---
 
