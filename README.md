@@ -9,16 +9,17 @@ With over 28 years of experience in the MSP industry, I have worked with a team 
 #### Currently working on
 
 - **Virtual Machine Hosting (VMH)** reporting web portal. Keeping daily records of virtual machines in hypervisor clusters allowing for reporting and auditing.
-- Scripts to extend Remote Monitoring and Management (RMM) and Infrastructure Monitoring:
-  - [LogicMonitor](https://www.logicmonitor.com/)
-  - [N-Central RMM](https://www.n-able.com/products/n-central-rmm)
-  - [Datto RMM](https://www.datto.com/au/products/rmm/)
+- [Ansible](https://www.ansible.com/)
+- [LogicMonitor](https://www.logicmonitor.com/)
+- [N-Central RMM](https://www.n-able.com/products/n-central-rmm)
+- [Datto RMM](https://www.datto.com/au/products/rmm/)
 - Living and enjoying a healthy life
 
 #### Continued Learning ... everything 🤣
 
 - Data Analytics
 - Python
+- Ansible
 
 #### Goals
 
@@ -53,7 +54,6 @@ With over 28 years of experience in the MSP industry, I have worked with a team 
 
 ---
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jscooksey&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
@@ -81,6 +81,7 @@ With over 28 years of experience in the MSP industry, I have worked with a team 
 <img align="left" alt="GitHub" width="48px" style="padding-right:10px;"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <img align="left" alt="Visual Studio Code" width="48px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
 <img align="left" alt="Docker" width="48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
+<img align="left" alt="Ansible" width="48px" height="48px" src="https://img.icons8.com/color/48/ansible.png" />
 
 <br/><br/><br/>
 
