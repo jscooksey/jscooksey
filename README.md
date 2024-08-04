@@ -55,8 +55,6 @@ With over 28 years of experience in the MSP industry, I have worked with a team 
 ---
 
 
----
-
 ### Languages and Tools I use
 
 <img align="left" alt="Python" width="48px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
