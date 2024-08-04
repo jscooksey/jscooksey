@@ -56,6 +56,9 @@ With over 28 years of experience in the MSP industry, I have worked with a team 
 <a href="https://dev.to/jscooksey">
   <img align="left" alt="jscooksey | Dev" width="48px" style="padding-right:10px;" src="https://img.icons8.com/windows/32/null/dev.png"/>
 </a>
+<a href="https://twitter.com/jscooksey">
+  <img align="left" alt="jscooksey | Twitter" width="48px" style="padding-right:10px;" src="https://img.icons8.com/color/48/null/twitter--v1.png" />
+</a>
 <a href="https://linkedin.com/in/jscooksey">
   <img align="left" alt="jscooksey| LinkedIn" width="48px" style="padding-right:10px;" src="https://img.icons8.com/fluency/48/null/linkedin.png" />
 </a>
