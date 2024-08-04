@@ -34,6 +34,20 @@ With over 28 years of experience in the MSP industry, I have worked with a team 
 
 ---
 
+
+### 📕 Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+- [Publishing Pelican Created Site](https://justincooksey.com/blog/2023/pelican-created-site.html)
+- [Pelican Static Site Generator](https://justincooksey.com/blog/2023/pelican-static-site-generator.html)
+- [Datto RMM API Sites Export](https://justincooksey.com/blog/2023/dattormm-api.html)
+<!-- BLOG-POST-LIST:END -->
+- [more blog posts...](https://justincooksey.com)
+
+
+---
+
+
 ### Connect with me:
 
 <a href="https://justincooksey.com">
@@ -81,16 +95,3 @@ With over 28 years of experience in the MSP industry, I have worked with a team 
 <img align="left" alt="Docker" width="48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
 <img align="left" alt="Ansible" width="48px" height="48px" src="https://img.icons8.com/color/48/ansible.png" />
 
-<br/><br/><br/>
-
----
-
-### 📕 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- [Publishing Pelican Created Site](https://justincooksey.com/blog/2023/pelican-created-site.html)
-- [Pelican Static Site Generator](https://justincooksey.com/blog/2023/pelican-static-site-generator.html)
-- [Datto RMM API Sites Export](https://justincooksey.com/blog/2023/dattormm-api.html)
-<!-- BLOG-POST-LIST:END -->
-
-[more blog posts...](https://justincooksey.com)
