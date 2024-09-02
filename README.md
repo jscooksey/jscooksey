@@ -38,9 +38,9 @@ With over 28 years of experience in the MSP industry, I have worked with a team 
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Netbox and Ansible for for Small to Mid Business Networks](https://justincooksey.com/blog/2024/ansible-netbox-begining.html)
 - [Publishing Pelican Created Site](https://justincooksey.com/blog/2023/pelican-created-site.html)
 - [Pelican Static Site Generator](https://justincooksey.com/blog/2023/pelican-static-site-generator.html)
-- [Datto RMM API Sites Export](https://justincooksey.com/blog/2023/dattormm-api.html)
 <!-- BLOG-POST-LIST:END -->
 - [more blog posts...](https://justincooksey.com)
 
