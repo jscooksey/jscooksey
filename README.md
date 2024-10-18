@@ -38,7 +38,7 @@ With over 28 years of experience in the MSP industry, I have worked with a team 
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Cisco DHCP Pool convertion to Windows Server DHCP](https://justincooksey.com/blog/2024/2024-10-13-cisco-dhcp-conversion-to-windows-server.html)
+- [Cisco DHCP Pool conversion to Windows Server DHCP](https://justincooksey.com/blog/2024/2024-10-13-cisco-dhcp-conversion-to-windows-server.html)
 - [Netbox and Ansible for for Small to Mid Business Networks](https://justincooksey.com/blog/2024/ansible-netbox-begining.html)
 - [Publishing Pelican Created Site](https://justincooksey.com/blog/2023/pelican-created-site.html)
 <!-- BLOG-POST-LIST:END -->
