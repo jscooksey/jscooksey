@@ -38,7 +38,7 @@ With over 28 years of experience in the MSP industry, I have worked with a team 
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Development on Fedora 41](https://justincooksey.com/blog/2025/2025-01-20-development-on-fedora-41.html)
+- [Learning Development on Fedora 41 Linux System After Windows and MacOS](https://justincooksey.com/blog/2025/2025-01-20-development-on-fedora-41.html)
 - [Cisco DHCP Pool conversion to Windows Server DHCP](https://justincooksey.com/blog/2024/2024-10-13-cisco-dhcp-conversion-to-windows-server.html)
 - [Netbox and Ansible for for Small to Mid Business Networks](https://justincooksey.com/blog/2024/ansible-netbox-begining.html)
 <!-- BLOG-POST-LIST:END -->
