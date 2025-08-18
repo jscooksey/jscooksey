@@ -38,9 +38,9 @@ With over 28 years of experience in the MSP industry, I have worked with a team 
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Using Ansible to backup Cisco SMB switches](https://justincooksey.com/blog/2025/2025-08-18-ansible-to-backup-cisco-switches.html)
 - [Using Ansible to set standards across Cisco SMB Switches](https://justincooksey.com/blog/2025/2025-07-08-using-ansible-on-ciscosmb-to-set-standards.html)
 - [Learning Development on Fedora 41 Linux System After Windows and MacOS](https://justincooksey.com/blog/2025/2025-01-20-development-on-fedora-41.html)
-- [Cisco DHCP Pool conversion to Windows Server DHCP](https://justincooksey.com/blog/2024/2024-10-13-cisco-dhcp-conversion-to-windows-server.html)
 <!-- BLOG-POST-LIST:END -->
 - [more blog posts...](https://justincooksey.com)
 
